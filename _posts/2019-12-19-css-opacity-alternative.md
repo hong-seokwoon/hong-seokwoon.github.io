@@ -3,8 +3,6 @@ title: "CSS opacity alternative"
 date: 2019-12-19 15:19:00 +0900
 categories: dev
 ---
-# CSS opacity alternative
-
 ## Using opacity
 ```css
     opacity: 0.49;
