@@ -3,7 +3,7 @@ title: "AWS + Serverless deploy"
 date: 2019-12-19 15:07:00 +0900
 categories: dev
 ---
-## Workflow
+## Workflow2
 1. Set up the Serverless Framework[^1]
 2. Deploy by AWS profile[^2]
     - `serverless deploy --aws-profile devProfile`
